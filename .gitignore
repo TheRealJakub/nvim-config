@@ -13,3 +13,4 @@ __pycache__/
 # Lazy-lock is optional (some people track it, some don't)
 # lazy-lock.json
 
+lazy-lock.json

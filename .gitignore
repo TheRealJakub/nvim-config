@@ -1,0 +1,15 @@
+# Plugin manager artifacts (lazy.nvim)
+plugin/
+
+# Compiled files
+*.pyc
+__pycache__/
+
+# Swap/undo/backup
+*.swp
+*.swo
+*~
+
+# Lazy-lock is optional (some people track it, some don't)
+# lazy-lock.json
+

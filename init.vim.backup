@@ -1,0 +1,11 @@
+call plug#begin()
+
+" List your plugins here
+Plug 'nvim-tree/nvim-web-devicons' 
+Plug 'nvim-tree/nvim-tree.lua'
+Plug 'ThePrimeagen/vim-be-good'
+Plug 'tpope/vim-sensible'
+
+call plug#end()
+
+set number
